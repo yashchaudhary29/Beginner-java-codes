@@ -1,7 +1,7 @@
 //Switch case statement using Arithmatic operators: '+','-','*','/'
 
 import java.util.*;
-class main{
+class arithmaticOperators{
     public static void main(String[] args) {
         Scanner input=new Scanner(System.in);
         System.out.println("enter Operatin :  '+', '-', '*', '/' ");
@@ -39,6 +39,7 @@ class main{
         }
     }
 }
+
 
 
 
